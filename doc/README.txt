@@ -1,4 +1,4 @@
-The bkstart is a small wrapper around great console backup utility, the Restic.
+bkstart is a small cmd-wrapper around great console backup utility, the Rectic.
 Needed to simplify periodic (not much frequent) routine tasks for manual backup
 of my favorite filesystem branches.
 
@@ -10,4 +10,4 @@ Fearures:
   some others) now is pretty lightweight - cd into desired directory, then type
   "bkstart backup", that's all
 - there are some minimal additional helper commands - info, scan and so
-- maybe something else
+- maybe something else..
