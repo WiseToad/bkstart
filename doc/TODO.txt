@@ -1,0 +1,14 @@
+Develop simple console utility to prompt password (with optional re-enter
+for confirmation) for smoother repo init if one doesn't exists before backup,
+or for batch directory list processing.
+See: https://nullprogram.com/blog/2020/05/04/
+
+Implement new "batch" command to perform backup processing for all directories
+listed in à specified file.
+
+Rename all internal vars with unique prefix to mitigate risk of name conflicts
+with environment and/or external variables.
+
+Get rid of risk of logging issues if there is the LOG_FILE variable (or similar
+after internal var renaming as suggested in another point of this TODO) already
+exists in the system or caller's environment.

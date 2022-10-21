@@ -1,0 +1,7 @@
+Software used in this project:
+
+Restic
+https://restic.net/
+
+GnuWin
+http://gnuwin32.sourceforge.net/
