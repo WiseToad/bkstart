@@ -1,4 +1,4 @@
-The bkstart is a small wrapper around great console backup utility, the Rectic.
+The bkstart is a small wrapper around great console backup utility, the Restic.
 Needed to simplify periodic (not much frequent) routine tasks for manual backup
 of my favorite filesystem branches.
 
